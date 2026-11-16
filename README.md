@@ -2,7 +2,7 @@
 
 An interactive Excel dashboard analyzing 1,000 coffee bean orders (2019–2022), built by combining orders, customers and products data into one clean dataset.
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboardd.png)
 
 ## 🛠️ Tools & Techniques
 - **XLOOKUP** and **INDEX + MATCH** to combine data from three tables
